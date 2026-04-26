@@ -1,38 +1,38 @@
-# veltrix-file-converter
-
 <div align="center">
 
-# 🎨 Veltrix
+# Veltrix
 
 ### Premium File Converter with Brutalist Design
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-veltrix--file.vercel.app-d63031?style=for-the-badge)](https://veltrix-file.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-veltrix--file.vercel.app-d63031?style=for-the-badge)](https://veltrix-file.vercel.app/)
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript)
+![Sharp](https://img.shields.io/badge/Sharp-Image_Processing-99CC00?style=flat-square)
 ![GSAP](https://img.shields.io/badge/GSAP-Animations-88CE02?style=flat-square&logo=greensock)
+![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=flat-square&logo=vercel)
 
 </div>
 
 ---
 
-## ✨ What is Veltrix?
+## Overview
 
 **Veltrix** is a modern file converter that transforms your images instantly. Built with a striking **brutalist design** inspired by editorial architecture, it combines bold aesthetics with powerful functionality.
 
-🔒 **100% Private** - All conversions happen on the server, no third-party APIs  
-⚡ **Lightning Fast** - Instant conversions with 60fps animations  
-🎨 **Beautiful Design** - Brutalist aesthetic with smooth GSAP animations
+**100% Private** - All conversions happen on the server, no third-party APIs  
+**Lightning Fast** - Instant conversions with 60fps animations  
+**Beautiful Design** - Brutalist aesthetic with smooth GSAP animations
 
 ---
 
-## �️ Features
+## Features
 
 <table>
 <tr>
 <td width="50%">
 
-### � Image Conversion
+### Image Conversion
 Convert between popular formats:
 - JPG / JPEG
 - PNG
@@ -42,7 +42,7 @@ Convert between popular formats:
 </td>
 <td width="50%">
 
-### 🎬 Premium Experience
+### Premium Experience
 - Smooth GSAP animations
 - Drag & drop upload
 - Real-time preview
@@ -54,7 +54,7 @@ Convert between popular formats:
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 <div align="center">
 
@@ -70,37 +70,30 @@ Convert between popular formats:
 
 ---
 
-## � Quick Start
+## Deployment
 
-```bash
-# Clone the repo
-git clone https://github.com/Shaarim24/veltrix.git
+This project is deployed on **Vercel**. Visit the live site:
 
-# Install dependencies
-npm install
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Shaarim24/veltrix)
 
-# Run locally
-npm run dev
-```
-
-Visit `http://localhost:3000` 🎉
+**Live URL:** [https://veltrix-file.vercel.app/](https://veltrix-file.vercel.app/)
 
 ---
 
-## 🎨 Design
+## Design
 
 Veltrix features a **brutalist design** with:
 
-- 🎯 Bold typography (Space Grotesk)
-- 🎨 Minimal color palette (Beige, Red, Black)
-- 📐 Asymmetric layouts
-- ✨ Smooth GSAP animations
+- Bold typography (Space Grotesk)
+- Minimal color palette (Beige, Red, Black)
+- Asymmetric layouts
+- Smooth GSAP animations
 
 Inspired by [Lanterne Architectes](https://lanterne-architectes.com/)
 
 ---
 
-## � How It Works
+## How It Works
 
 ```mermaid
 graph LR
@@ -115,7 +108,7 @@ graph LR
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 <div align="center">
 
@@ -128,7 +121,7 @@ graph LR
 
 ---
 
-## 📄 License
+## License
 
 MIT License - feel free to use this project!
 
@@ -136,8 +129,8 @@ MIT License - feel free to use this project!
 
 <div align="center">
 
-**Made with ❤️ by [Shaarim Alam](https://shaarim.vercel.app)**
+Made by [Shaarim Alam](https://shaarim.vercel.app)
 
-[⬆ Back to Top](#-veltrix)
+[Back to Top](#veltrix)
 
 </div>
