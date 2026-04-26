@@ -89,7 +89,6 @@ Veltrix features a **brutalist design** with:
 - Asymmetric layouts
 - Smooth GSAP animations
 
-Inspired by [Lanterne Architectes](https://lanterne-architectes.com/)
 
 ---
 
