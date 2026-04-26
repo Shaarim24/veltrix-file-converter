@@ -120,12 +120,6 @@ graph LR
 
 ---
 
-## License
-
-MIT License - feel free to use this project!
-
----
-
 <div align="center">
 
 Made by [Shaarim Alam](https://shaarim.vercel.app)
